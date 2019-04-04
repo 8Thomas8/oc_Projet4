@@ -26,3 +26,10 @@ Thomas s'est investi dans l'UML et a acquis l'ensemble des notions du langage (l
 *Axes d'amélioration:*
 
 Attention à la structure de la base - sans champ 'date' ou un flag 'disponible / indisponible' on peut se retrouver avec une base qui a des références potentiellement manquantes - point discuté en soutenance et Thomas a bien compris qu'un élément était manquant.
+
+**Compétences évaluées:**
+
+* Réaliser des schémas UML cohérents et en accord avec les besoins énoncés
+* Concevoir l’architecture technique d’une application à l’aide de diagrammes UML
+* Implémenter le schéma de données dans la base
+* Réaliser un schéma de conception de la base de données de l’application
